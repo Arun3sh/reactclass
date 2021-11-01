@@ -17,6 +17,7 @@ body {
 	object-fit: cover;
 }
 .movie {
+	margin: 30px;
 	gap: 25px;
 	display: flex;
 }
