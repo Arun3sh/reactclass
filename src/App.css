@@ -31,12 +31,21 @@ body {
 	margin-left: 20px;
 }
 .movie p {
-	margin-top: 0;
+	margin-bottom: 30px;
 }
 .otherContainer {
 	margin-left: 25px;
 }
-
+.myForm {
+	margin: 25px;
+}
+.myForm label {
+	margin: 20px;
+}
+.myForm input[type='text'],
+.myForm input[type='link'] {
+	margin: 15px 20px 15px 20px;
+}
 .App {
 	text-align: center;
 }
